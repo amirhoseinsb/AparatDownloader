@@ -11,8 +11,10 @@
 4 : python3 aparat_dl.py
 <br>
 5 : Enter The Link
-<tr>
+<br>
 6 : Enter The Quality of Video
-<tr>
+<br>
 7 : Copy The Link
-<tr>
+<br>
+Important
+If you have a problem with the chromedriver file, download the appropriate file for your browser from the link below and replace the desired file.
