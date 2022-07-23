@@ -1,7 +1,9 @@
 # AparatDownloader
 ---
 <tr>
-<br>
+
+### Use The Script
+
 1 : git clone https://github.com/amirhoseinsb/AparatDownloader.git 
 <br>
 2 : cd AparatDownloader 
