@@ -23,6 +23,6 @@
 
 If you have a problem with the chromedriver file, download the appropriate file for your browser from the link below and replace the desired file.
 
-<a href="https://chromedriver.chromium.org/downloads" target="_blank">ChromeDriv
-er</a>
+<a href="https://chromedriver.chromium.org/downloads" target="_blank">ChromeDriver</a>
+
 
