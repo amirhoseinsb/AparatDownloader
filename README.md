@@ -10,7 +10,7 @@
 <br>
 3 : pip3 install -r requirements.txt
 <br>
-4 : python3 aparat_dl.py
+4 : python3 main.py
 <br>
 5 : Enter The Link
 <br>
